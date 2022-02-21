@@ -1,0 +1,16 @@
+.botones {
+
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    margin-bottom: 20px;
+
+    button {
+
+        background-color: transparent;
+        border: none;
+        font-size: 30px;
+
+    }
+
+}

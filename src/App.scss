@@ -1,0 +1,26 @@
+body[theme="human"] {
+
+    --color-primary: burlywood;
+    --color-secondary: rgb(36, 35, 35);
+
+}
+
+body[theme="alien"] {
+
+    --color-primary: rgb(36, 35, 35);
+    --color-secondary: burlywood;
+
+}
+
+body {
+
+    background-color: var(--color-primary);
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.carta {
+
+    background-color: var(--color-secondary);
+
+}

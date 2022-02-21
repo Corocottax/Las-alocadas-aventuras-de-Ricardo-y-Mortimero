@@ -1,0 +1,37 @@
+.album {
+
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    background-image: url("https://www.transparenttextures.com/patterns/green-dust-and-scratches.png");
+
+}
+
+.carta {
+
+    text-align: center;
+    background-color: var(--color-secondary);  
+    border-radius: 50px;
+    margin: 30px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-image: url("https://www.transparenttextures.com/patterns/green-dust-and-scratches.png");
+    color: white;
+    padding: 30px;
+
+}
+
+.planeta {
+
+    width: 300px;
+
+}
+
+a {
+
+    text-decoration: none;
+    color: white;
+
+}
